@@ -3,7 +3,7 @@
 
 # Install
 ```
-bash https://gist.githubusercontent.com/inwdragon/c3c05dc81eca70b0766a8f50e2e7380e/raw/88633a449ebdce185c709d44b1358f72408e6117/install-thsn-for-ubuntu-terminal | sh
+$curl https://gist.githubusercontent.com/inwdragon/c3c05dc81eca70b0766a8f50e2e7380e/raw/88633a449ebdce185c709d44b1358f72408e6117/install-thsn-for-ubuntu-terminal | sh
 ```
 
 # License
