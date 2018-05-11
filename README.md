@@ -1,4 +1,4 @@
-# TH Sarabun New for Ubuntu Terminal
+# TH Sarabun New for Ubuntu Terminal tool
 "TH Sarabun New" are 1 in 13 Thai National fonts.
 
 # Install
